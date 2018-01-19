@@ -9,6 +9,8 @@
 # production
 /build
 
+Smartjuice_version1_*
+
 # misc
 .DS_Store
 .env.local
